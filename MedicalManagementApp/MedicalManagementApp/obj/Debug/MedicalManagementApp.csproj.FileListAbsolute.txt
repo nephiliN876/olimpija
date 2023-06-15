@@ -1,0 +1,15 @@
+C:\Users\Meriodasu\Desktop\Практическая работа\MedicalManagementApp\MedicalManagementApp\bin\Debug\MedicalManagementApp.exe.config
+C:\Users\Meriodasu\Desktop\Практическая работа\MedicalManagementApp\MedicalManagementApp\bin\Debug\MedicalManagementApp.exe
+C:\Users\Meriodasu\Desktop\Практическая работа\MedicalManagementApp\MedicalManagementApp\bin\Debug\MedicalManagementApp.pdb
+C:\Users\Meriodasu\Desktop\Практическая работа\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.csproj.AssemblyReference.cache
+C:\Users\Meriodasu\Desktop\Практическая работа\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Meriodasu\Desktop\Практическая работа\MedicalManagementApp\MedicalManagementApp\obj\Debug\MainWindow.baml
+C:\Users\Meriodasu\Desktop\Практическая работа\MedicalManagementApp\MedicalManagementApp\obj\Debug\MainWindow.g.cs
+C:\Users\Meriodasu\Desktop\Практическая работа\MedicalManagementApp\MedicalManagementApp\obj\Debug\App.g.cs
+C:\Users\Meriodasu\Desktop\Практическая работа\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp_MarkupCompile.cache
+C:\Users\Meriodasu\Desktop\Практическая работа\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.g.resources
+C:\Users\Meriodasu\Desktop\Практическая работа\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.Properties.Resources.resources
+C:\Users\Meriodasu\Desktop\Практическая работа\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.csproj.GenerateResource.cache
+C:\Users\Meriodasu\Desktop\Практическая работа\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Meriodasu\Desktop\Практическая работа\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.exe
+C:\Users\Meriodasu\Desktop\Практическая работа\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.pdb
